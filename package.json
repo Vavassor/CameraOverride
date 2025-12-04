@@ -1,0 +1,24 @@
+{
+  "author": {
+    "email": "dawso.andrew@gmail.com",
+    "name": "Andrew Dawson",
+    "url": "https://vavassor.github.io/"
+  },
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "description": "Player camera override in VR",
+  "displayName": "Camera Override",
+  "keywords": [
+    "camera"
+  ],
+  "license": "MIT",
+  "name": "com.orchidseal.cameraoverride",
+  "unity": "2022.3",
+  "unityRelease": "6f1",
+  "url": "https://github.com/Vavassor/CameraOverride/releases/download/v1.0.0/com.orchidseal.cameraoverride-1.0.0.zip",
+  "version": "1.0.0",
+  "vpmDependencies": {
+    "com.vrchat.worlds": ">=3.8.0"
+  }
+}
