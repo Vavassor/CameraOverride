@@ -6,6 +6,6 @@ Replace the player camera view in [VRChat](https://vrchat.com). Supports shader 
 
 This doesn't support photo camera or other cameras.
 
-Get the newest .unitypackage from the [Releases section](https://github.com/Vavassor/OSPBillboard/releases) on GitHub and [import the package into Unity](https://docs.unity3d.com/Manual/AssetPackagesImport.html)!
+Get the newest .unitypackage from the [Releases section](https://github.com/Vavassor/CameraOverride/releases) on GitHub and [import the package into Unity](https://docs.unity3d.com/Manual/AssetPackagesImport.html)!
 
 ![A player looking wobbly and colorful instead of their normal appearance](Demo/Demo.png)
